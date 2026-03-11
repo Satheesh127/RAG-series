@@ -11,7 +11,7 @@ Each project demonstrates how RAG can be applied to extract knowledge from vario
 | Project                      | Description                                          | Repository                                                        |
 | ---------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------- |
 | 🌐 **URL RAG System**        | Answer questions directly from website URLs          | [View Repo](https://github.com/Satheesh127/RAG-series/tree/main/%F0%9F%8C%90%20URL%20RAG%20System)     |
-| 📄 **PDF RAG System**        | Ask questions from PDF documents                     | [View Repo](https://github.com/Satheesh127/rag-pdf-qa-system)     |
+| 📄 **PDF RAG System**        | Ask questions from PDF documents                     | [View Repo](https://github.com/Satheesh127/RAG-series/tree/main/%F0%9F%93%84%20PDF%20RAG%20System)     |
 | 🖼️ **Image RAG System**     | Extract and answer questions from images using OCR   | [View Repo](https://github.com/Satheesh127/rag-image-qa-system)   |
 | 🎧 **Audio RAG System**      | Convert audio to text and perform retrieval-based QA | [View Repo](https://github.com/Satheesh127/rag-audio-qa-system)   |
 | 🔀 **Multimodal RAG System** | Unified system supporting multiple input formats     | [View Repo](https://github.com/Satheesh127/multimodal-rag-system) |
