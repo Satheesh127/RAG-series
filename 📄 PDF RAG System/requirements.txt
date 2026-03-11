@@ -1,0 +1,28 @@
+# PDF RAG System Dependencies
+# Production-ready PDF RAG system with Streamlit UI
+# Install: pip install -r requirements.txt
+
+# Core Streamlit UI
+streamlit>=1.35.0
+
+# Vector Database & Embeddings
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+
+# PDF Processing
+pymupdf>=1.23.0
+pdfplumber>=0.9.0
+
+# OCR Support for Scanned PDFs
+pytesseract>=0.3.10
+pdf2image>=1.16.0
+pillow>=10.0.0
+
+# LLM Integration
+groq>=0.9.0
+
+# Configuration & Environment
+python-dotenv>=1.0.0
+
+# Token Management
+tiktoken>=0.7.0
